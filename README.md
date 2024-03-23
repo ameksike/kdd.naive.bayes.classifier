@@ -1,3 +1,8 @@
+# Related projects
+- [Fizz Buzz classifier](https://github.com/ameksike/kdd.fizz.buzz.classifier)
+- [TP Fraud Detection System](https://github.com/ameksike/kdd.fraud.detection.system)
+- [KDD Naive Bayes Classifier](https://github.com/ameksike/kdd.naive.bayes.classifier)
+
 # Priberam Challenge
 The task is to write an HTTP REST web service which classifies news documents. At any given point in time, the service can receive: 
   (1) a training document already classified with a topic; 
